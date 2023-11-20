@@ -49,4 +49,4 @@ async def question(ctx):
     soru = random.choice(cevre3)
     await ctx.send(f'Soru: {soru}')
 
-bot.run("MTE2NjgwOTU1NjY0NzY5NDQ5Nw.GD3xYL.X-GTw7srfkIlIRQElW3ixCh51wTVswbiJxiffE")
+bot.run("Token")
